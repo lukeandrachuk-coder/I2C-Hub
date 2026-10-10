@@ -17,7 +17,7 @@
 | [K104K15X7RF5TL2](https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538) | 0.1 µF Ceramic Capacitor | 5 | $0.43 | $2.15 | [Digikey](https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538) |
 | [CF14JT4K70](https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428) | 4.7kΩ Resistor | 10 | $0.04 | $0.40 | [Digikey](https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428) |
 | **Parts subtotal** | — | — | — | **$16.04** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.04** | — |
+| **Tax & shipping** | — | — | — | **$15.00** | — |
+| **Total** | — | — | — | **$31.04** | — |
 
-$13.96 left of the tier's funding.
+**$1.04 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
