@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-07T22:29:32.606Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuveb24o004t01rv84yguc9m). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A PCB that can take one I2C input and rout it to several I2C outputs so you can have many things connected/controlled  to a microcontroller that only has one I2C port.
 
