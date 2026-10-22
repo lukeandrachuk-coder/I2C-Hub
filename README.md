@@ -63,5 +63,6 @@ The purpose of this project is to make a board that expands the number of I2C co
       <td style="border: 1px solid #dddddd; padding: 8px;">https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428</td>
     </tr>
   </tbody>
+<table>
 
-+ tax and shipping.
+  + tax and shipping.
