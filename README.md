@@ -65,4 +65,4 @@ The purpose of this project is to make a board that expands the number of I2C co
   </tbody>
 <table>
 
-  + tax and shipping.
+  Plus tax and shipping.
