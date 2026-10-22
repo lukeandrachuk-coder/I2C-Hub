@@ -47,17 +47,21 @@ The purpose of this project is to make a board that expands the number of I2C co
       <td style="border: 1px solid #dddddd; padding: 8px;">https://www.amazon.ca/2-54mm-Single-Socket-Breakaway-Connectors/dp/B0H9M69F4F/ref=sr_1_28?dib=eyJ2IjoiMSJ9.yTvO4Ctxl0OUyRyW3pki7Tqhjb_15nBXmuAJZeGEDNMo0eCxgBYOPyxYXSXgiYb4ljKhB2EOc_AQCAfljvOxCJ1Xxm2OkeHzCJ0IBh2KbvS-aUOyQDNqCzc6Uboud4w_PwxPd1CnfKyz1QM7oZLSZMhPvx28IleQ-zvfp2LupoBJt2vVJot_V8wWuBBqPMD4x6SXMQZKH2Puiv3ejK01JE38yJ67acV-_RkHXEawoAUQtakQwPXnNQur8iJZCgJsKgFyXAcIHZpj9kGQyyEAC8b53asezkW5_Me8TBcmNrY.DG0-hsSwsN1YIFz_b5xScE9tyFhYPBRk2B2CW9RvPzQ&dib_tag=se&gad_source=1&hvadid=788542685418&hvdev=c&hvexpln=0&hvlocphy=9189569&hvnetw=g&hvocijid=1598390221780357774--&hvqmt=b&hvrand=1598390221780357774&hvtargid=kwd-2493940636015&hydadcr=28046_14944998&keywords=2.54+mm+male+header+pins&mcid=5f4d9b8a47033eab997e191b3ade675b&qid=1791668972&refinements=p_36%3A-1000&rnid=12035759011&sr=8-28</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">K104K15X7RF5TL2</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">5</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Digikey</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">$0.43</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">$2.15</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538</td>
+    </tr>
+      <tr>
+      <td style="border: 1px solid #dddddd; padding: 8px;">CF14JT4K70</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">10</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Digikey</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">$0.04</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">$0.40</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428</td>
     </tr>
   </tbody>
 
-
-2.54mm male pin headers,1,Amazon,$0.00,$0.00,https://www.amazon.ca/2-54mm-Single-Socket-Breakaway-Connectors/dp/B0H9M69F4F/ref=sr_1_28?dib=eyJ2IjoiMSJ9.yTvO4Ctxl0OUyRyW3pki7Tqhjb_15nBXmuAJZeGEDNMo0eCxgBYOPyxYXSXgiYb4ljKhB2EOc_AQCAfljvOxCJ1Xxm2OkeHzCJ0IBh2KbvS-aUOyQDNqCzc6Uboud4w_PwxPd1CnfKyz1QM7oZLSZMhPvx28IleQ-zvfp2LupoBJt2vVJot_V8wWuBBqPMD4x6SXMQZKH2Puiv3ejK01JE38yJ67acV-_RkHXEawoAUQtakQwPXnNQur8iJZCgJsKgFyXAcIHZpj9kGQyyEAC8b53asezkW5_Me8TBcmNrY.DG0-hsSwsN1YIFz_b5xScE9tyFhYPBRk2B2CW9RvPzQ&dib_tag=se&gad_source=1&hvadid=788542685418&hvdev=c&hvexpln=0&hvlocphy=9189569&hvnetw=g&hvocijid=1598390221780357774--&hvqmt=b&hvrand=1598390221780357774&hvtargid=kwd-2493940636015&hydadcr=28046_14944998&keywords=2.54+mm+male+header+pins&mcid=5f4d9b8a47033eab997e191b3ade675b&qid=1791668972&refinements=p_36%3A-1000&rnid=12035759011&sr=8-28
-K104K15X7RF5TL2,5,Digikey,$0.43,$2.15,https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538
-CF14JT4K70,10,Digikey,$0.04,$0.40,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428
-Estimated total shipping,1,,,$18.00,
++ tax and shipping.
