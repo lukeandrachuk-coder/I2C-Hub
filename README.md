@@ -18,7 +18,8 @@ The purpose of this project is to make a board that expands the number of I2C co
 
 # BOM
 
-You must order the PCB from JLCPCB*, the link I have provided takes you to the online PCB quote page. You must upload the provided greber files .zip then select the PCB colour you want (any colour exept green takes longer to ship). You can leave all the other options alone.
+You must order the PCB from JLCPCB*. The link I have provided takes you to the online PCB quote page. You must upload the provided greber files .zip then select the PCB colour you want (any colour exept green takes longer to ship). You can leave all the other options alone.
+
 <table>
   <thead>
     <tr>
