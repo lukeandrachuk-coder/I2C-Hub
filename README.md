@@ -3,7 +3,7 @@ The purpose of this project is to make a board that expands the number of I2C co
 <img width="602" height="418" alt="image" src="https://github.com/user-attachments/assets/3e37bec6-6fe9-4e05-bba2-6283e08d913f" />
 <img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/a11e865a-8055-4d76-9fc2-2508de6206b1" />
 
-**Assembly instructions: **
+# Assembly instructions: 
   First the TCA9546APWR chip needs to be soldered to the board. I recommend using solder paste for this as it is a surface-mount device. 
   
 <img width="527" height="349" alt="I2C board 1" src="https://github.com/user-attachments/assets/22354a8e-e1ae-48ce-b620-8fe84b8d0d07" />
