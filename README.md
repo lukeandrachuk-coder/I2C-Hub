@@ -30,6 +30,14 @@ The purpose of this project is to make a board that expands the number of I2C co
     </tr>
   <thead>
   <tbody>
+     <tr>
+      <td style="border: 1px solid #dddddd; padding: 8px;">I2C Hub PCB</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">5</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">JLCPCB</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">N/A</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">$5.61</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">[https://www.digikey.ca/en/products/detail/texas-instruments/TCA9546APWR/4842201](https://cart.jlcpcb.com/quote?from=pcbassembly_page)</td>
+    </tr>
     <tr>
       <td style="border: 1px solid #dddddd; padding: 8px;">TCA9546APWR</td>
       <td style="border: 1px solid #dddddd; padding: 8px;">5</td>
