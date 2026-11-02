@@ -1,4 +1,5 @@
-The purpose of this project is to make a board that expands the number of I2C connective devices that you can connect to a microcontroller. The board was designed in KiCAD a free PCB design software. How it works is you connect the VCC, GND, SCL, and SDA from your microcontroller to the same ports in the I2C_In pins on the I2C hub board. You can then connect one or more of the eight out pins to your I2C devices.
+The purpose of this project is to make a board that expands the number of I2C connective devices that you can connect to a microcontroller. The board was designed in KiCAD a free PCB design software. How you use it is you connect the VCC, GND, SCL, and SDA from your microcontroller to the same ports in the I2C_In pins on the I2C hub board. You can then connect one or more of the eight out pins to your I2C devices.
+It works by taking the input signal and based on the I2C address given sends it to the corresponding device if it egsists.
 
 <img width="602" height="418" alt="image" src="https://github.com/user-attachments/assets/3e37bec6-6fe9-4e05-bba2-6283e08d913f" />
 <img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/a11e865a-8055-4d76-9fc2-2508de6206b1" />
